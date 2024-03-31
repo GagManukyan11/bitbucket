@@ -1,0 +1,25 @@
+.ativeTag{
+    background: rgba(95, 191, 119, 1);
+    width:240px ;
+    border-radius: 12px;
+    height: auto;
+    padding: 12px;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+}
+.text{
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 18px;
+    letter-spacing: -0.10000000149011612px;
+    text-align: left;
+}
+.notActive{
+    width: 240px;
+    height: auto;
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 12px;
+    color: rgba(57, 65, 75, 1);
+}
